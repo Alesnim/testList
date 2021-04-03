@@ -28,7 +28,7 @@ public class Main {
         setTwo(panel);
         frame.setContentPane(panel);
         frame.setSize(600, 100);
-        frame.setLocation(2500, 100);
+        frame.setLocation(2600, 100);
         frame.setVisible(true);
     }
 
